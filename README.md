@@ -1,5 +1,6 @@
 # SlimFit-Baddy-Media-Sniffer
 All your media belong to us.
+
 1: Open chrome://extensions 
 
 2: Toggle Developer mode on in the top-right corner.
